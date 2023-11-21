@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\bin\Debug\union_opperation.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\bin\Debug\union_opperation.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\bin\Debug\union_opperation.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\obj\Debug\union_opperation.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\obj\Debug\union_opperation.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\union_opperation\union_opperation\obj\Debug\union_opperation.pdb
